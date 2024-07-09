@@ -1,0 +1,61 @@
+h1
+{
+ font-family: "Montserrat";
+ font-size:4rem;
+}
+#content
+{
+ padding:8%;
+}
+#home
+{
+ background-color:lightgreen;
+}
+#btnwidth
+{
+ width:150px;
+}
+.container-fluid
+{
+ padding:;
+}
+.container-fluid{
+  padding:3%;
+}
+#services
+{
+ background-color:lightpink;
+ padding:8%;
+ text-align:center;
+}
+h2
+{
+ font-family:"Montserrat";
+ font-size:3.5rem;
+}
+#footer
+{
+ text-align:center;
+ background-color:turquoise;
+}
+.footericon i
+{
+ margin:1%;
+ 
+}
+#contact
+{
+ padding:4%;
+ text-align:center;
+ background-color:white;
+}
+
+.icons
+{
+ font-size:4rem;
+}
+
+.footericon i
+{
+ font-size:2rem;
+}
